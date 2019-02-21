@@ -1,2 +1,3 @@
-# checkpoints
-Service repository for checkpointed daemons.
+# Checkpoints
+### How To Sync Quickly
+##### Service repository for checkpointed daemons.
